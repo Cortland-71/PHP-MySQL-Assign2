@@ -1,0 +1,9 @@
+Asset No	Owner	Asset Category	Make	Model	Description	Serial No	Acquired	Cost	Warranty
+30050	Sales	Computer Hardware	GEO Rocket	220ZX	Computer	344-667	02-Sep-97	"$1,995.50"	12
+30051	Sales	Computer Hardware	GEO Blast	Surger 350	Computer	345-556	02-Sep-97	"$2,450.00"	12
+30052	Sales	Office Furniture	FurnTown	GasRiser	Computer Chair	FC776445	02-Sep-97	$244.00	6
+30053	Sales	Office Furniture	FurnTown	WideSpan	Credenza	FF555-67554	02-Sep-97	$550.00	3
+30054	Admin & Accounts	Computer Hardware	GEO Blast	Surger 350 XL	Computer	445-778	10-Nov-98	"$2,560.00"	12
+30055	Admin & Accounts	Computer Hardware	GEO Blast	Laptop VVZ	Computer Laptop	665-344-55	12-Dec-98	"$5,433.00"	24
+30056	Sales	Office Furniture	FurnTown	GasRiser	Computer Chair	FC665444	13-Dec-98	$320.00	6
+30057	Sales	Office Furniture	FurnTown	WideSpan 6	Desk	FF6655444	13-Dec-98	$675.00	3
