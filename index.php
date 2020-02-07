@@ -44,18 +44,12 @@
 		</div>
 		
 		<!-- Display form to user to enter bids -->
+
 		<form action="process.php" method="POST">
 			<table class="bidTable">
-				<?php $display->displayForm(); ?>	
+				<?php $display->displayForm(); ?>
 			</table>
-			
-			<div class="form-group">
-				<label>Shipping address:</label>
-				<input type="text" name="address">
-				<label>Email address:</label>
-				<input type="email" name="email">
-			</div>
-			<div><input type="submit" value="Submit"></div>
+			<div style="text-align:center;"><input type="submit" value="Submit"></div>
 		</form>
 	</div>
 </body>

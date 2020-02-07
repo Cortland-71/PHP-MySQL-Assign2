@@ -26,9 +26,6 @@
 			echo "<tr>";
 			for ($i=1; $i < count($this->all); $i++) {
 				$item = $this->all[$i][0]." | ".$this->all[$i][3]." | ".$this->all[$i][4]." | ".$this->all[$i][5];
-
-
-
 				echo "<tr class='bidRow'>";
 				echo "<td>";
 				echo $item;
@@ -38,8 +35,24 @@
 				echo "<input type='hidden' name='itemName$i' value='$item'>";
 				echo "</td>";
 				echo "</tr>";
-	
 			}
+			echo "<tr>";
+			echo "<td>";
+
+			echo "Shipping address:";
+			echo "<input type='text' name='address'>";
+
+			echo "</td>";
+			echo "</tr>";
+
+			echo "<tr>";
+			echo "<td>";
+
+			echo "Email address:";
+			echo "<input type='email' name='email'>";
+
+			echo "</td>";
+			echo "</tr>";
 			
 		}
 	}
